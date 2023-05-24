@@ -1,0 +1,11 @@
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\bin\Debug\Telefon_info.exe.config
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\bin\Debug\Telefon_info.exe
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\bin\Debug\Telefon_info.pdb
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.csproj.AssemblyReference.cache
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.Form1.resources
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.Properties.Resources.resources
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.csproj.GenerateResource.cache
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.csproj.CoreCompileInputs.cache
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.exe
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.pdb
+C:\Users\Elias.Egneus\source\repos\Telefon_info\Telefon_info\obj\Debug\Telefon_info.Form2.resources
